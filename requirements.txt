@@ -1,0 +1,13 @@
+# Portfolio Importer — Dependências Mínimas
+
+# Frontend
+streamlit>=1.35.0
+
+# Leitura de arquivos
+pdfplumber>=0.10.0
+PyPDF2>=3.0.0
+openpyxl>=3.1.0
+pandas>=2.1.0
+
+# Utilitários
+python-dateutil>=2.8.0
